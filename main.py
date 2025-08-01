@@ -24,7 +24,7 @@ from media_platform.tieba import TieBaCrawler
 from media_platform.weibo import WeiboCrawler
 from media_platform.xhs import XiaoHongShuCrawler
 from media_platform.zhihu import ZhihuCrawler
-
+# 8.1
 
 class CrawlerFactory:
     CRAWLERS = {
